@@ -12,7 +12,7 @@ This repo contains a set of source code which can help you remove those.
 It contains source code for the following languages:
 
 * [Javascript](remove-gpt-chars.js)
-    * To run it: `npm install` and then `
+    * To run it: `npm install` and then `npm run clean -- -i <input_file> [-o <output file>] [-e <encoding>]`
 * [Python]()
 * Java
 * Bash

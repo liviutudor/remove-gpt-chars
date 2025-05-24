@@ -1,8 +1,8 @@
+#!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
 const yargs = require('yargs/yargs')
-
-
+const { hideBin } = require('yargs/helpers')
 
 function commandLineArgs() {
     return yargs(hideBin(process.argv))

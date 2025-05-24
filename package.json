@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Removes the odd whitespace characters ChatGPT introduces in text.",
   "main": "remove-gpt-chars.js",
+  "bin": {
+    "remove-gpt-chars": "./remove-gpt-chars.js"
+  },
   "scripts": {
-    "run": "node remove-gpt-chars.js"
+    "script": "node remove-gpt-chars.js"
   },
   "repository": {
     "type": "git",
