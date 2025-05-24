@@ -17,5 +17,7 @@ It contains source code for the following languages:
     * Tun run it: `python3 remove_gpt_chars -i <input_file> [-o <output file>] [-e <encoding>]`
 * [Bash](remove-gpt-chars.sh)
     * Run it: `remove-gpt-chars.sh inputfile [outputfile]`
-* Java
+* [Java](RemoveGptChars.java)
+    * Run it: ``
+
 
