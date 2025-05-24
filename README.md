@@ -18,6 +18,6 @@ It contains source code for the following languages:
 * [Bash](remove-gpt-chars.sh)
     * Run it: `remove-gpt-chars.sh inputfile [outputfile]`
 * [Java](RemoveGptChars.java)
-    * Run it: ``
-
-
+    * Requires Java 17
+    * **Gradle** wrapper and build file provided
+    * Run it: `./gradlew run --args="-i input.txt [-o output.txt] [-e encoding]"`
