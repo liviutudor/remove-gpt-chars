@@ -13,7 +13,7 @@ It contains source code for the following languages:
 
 * [Javascript](remove-gpt-chars.js)
     * To run it: `npm install` and then `npm run clean -- -i <input_file> [-o <output file>] [-e <encoding>]`
-* [Python]()
+* [Python](remove-gpt-chars.py)
+* [Bash](remove-gpt-chars.sh)
 * Java
-* Bash
 
