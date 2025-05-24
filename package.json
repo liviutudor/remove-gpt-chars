@@ -1,0 +1,27 @@
+{
+  "name": "remove-gpt-chars",
+  "version": "1.0.0",
+  "description": "Removes the odd whitespace characters ChatGPT introduces in text.",
+  "main": "remove-gpt-chars.js",
+  "scripts": {
+    "run": "node remove-gpt-chars.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviutudor/remove-gpt-chars.git"
+  },
+  "keywords": [
+    "whitespace",
+    "chatgpt",
+    "gpt"
+  ],
+  "author": "Liviu Tudor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liviutudor/remove-gpt-chars/issues"
+  },
+  "homepage": "https://github.com/liviutudor/remove-gpt-chars#readme",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
